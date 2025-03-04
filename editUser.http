@@ -1,0 +1,7 @@
+PUT http://localhost:3000/api/editUser/7
+Content-Type: application/json
+
+{
+        "username":"159159zaza",
+        "password":"zaza123456"
+}
